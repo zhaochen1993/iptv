@@ -129,3 +129,5 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001248/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字",五星体育
+https://cntv.lat/tv?auth=202311030915&id=wxty
